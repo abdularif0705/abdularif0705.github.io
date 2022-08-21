@@ -1,0 +1,82 @@
+{
+    "basic_info": {
+      "name": "Abdullah Arif",
+      "titles": [ "Software Developer", "Avid Learner"],
+      "social": [
+        {
+          "name": "GitHub",
+          "url": "https://github.com/Aarif123456",
+          "class": "fab fa-github"
+        },
+        {
+          "name": "LinkedIn",
+          "url": "https://linkedin.com/in/abdullaharif98",
+          "class": "fab fa-linkedin-in"
+        },
+        {
+          "name": "Instagram",
+          "url": "https://www.instagram.com/abdullah_arif1198",
+          "class": "fab fa-instagram"
+        }
+      ],
+      "image": "images/profile.png"
+    },
+    "skills": {
+      "icons": [
+        {
+          "name": "Java"
+        },
+        {
+          "name": "C++"
+        },
+        {
+          "name": "Python"
+        },
+        {
+          "name": "C#"
+        },
+        {
+          "name": "PHP"
+        },
+        {
+          "name": "C"
+        },
+        {
+          "name": "HTML 5"
+        },
+        {
+          "name": "CSS 3"
+        },
+        {
+          "name": "React"
+        },
+        {
+          "name": "TypeScript"
+        },
+        {
+          "name": "JavaScript"
+        },
+        {
+          "name": "Sass"
+        },
+        {
+          "name": "Bootstrap"
+        },
+        {
+          "name": "MySql"
+        },
+        {
+          "name": "AWS"
+        },
+        {
+          "name": "Google Cloud"
+        },
+        {
+          "name": "Apache"
+        },
+        {
+          "name": "Docker"
+        }       
+      ]
+    }
+  }
