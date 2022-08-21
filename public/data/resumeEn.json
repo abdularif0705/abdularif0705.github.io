@@ -1,7 +1,7 @@
 {
     "basic_info": {
       "description_header": "Hi",
-      "description": "👋 I'm Abdullah Arif. Recently, I have graduated as a Computer Science student from the University of Windsor. You can browse my project section to see some of the things I have created over the years. There are three reasons why I usually start working on a project. One, it seems like an interesting idea; for example, a library website for Hogwarts. I had a blast trying to think of things wizards and witches would find useful on a library website. Two, I am trying to learn some concepts or technology. For example, I created the automated spear-phisher so I could learn more about phishing attacks. Lastly, it something that's inherently useful. An example of this is my Amazon deal finder.",
+      "description": "👋 I'm Abdul Arif. Currently, I'm in my fourth year as a Business and Computer Science (double major) student at the University of Windsor. You can browse my project section to see some of the things I have created over the years. There are three reasons why I usually start working on a project. One, it seems like an interesting idea; for example, a capture the flag first person shooter created in Unity. I had a blast building different weapons and writing scripts for how the player and guns would interact wit the enviroment. Two, I am trying to learn some concepts or technology. For example, I created a Network IP Manipulator so I could learn more about how to traverse other computers over a LAN. Lastly, it something that's inherently useful. An example of this is my Windsor Traffic Data Analyzer.",
       "section_name": {
         "about": "About me",
         "projects": "Projects",
@@ -11,26 +11,26 @@
     },
     "projects": [
       {
-        "title": "Automated Spear-phisher",
-        "startDate": "Oct 2020",
-        "endDate": "Apr 2021",
-        "description": "A security research tool to send targeted spam messages on either Facebook or Twitter. The program analyzes the feed of its target to increase the effectiveness of the messages.",
+        "title": "UWindsor Computer Science Wiki",
+        "startDate": "Feb 2022",
+        "endDate": "Ongoing",
+        "description": "Open source project created by Computer Science students to convert the old student guide website primarily written in Ruby on Rails into a better Wiki written in React.",
         "images": [
         ],
-        "url": "https://github.com/Aarif123456/Fb-Twitter-gui",
+        "url": "https://uwindsorcss.github.io/wiki/",
         "technologies": [
           {
-            "name": "Python"
+            "name": "React"
           },
           {
-            "name": "Apache"
+            "name": "Markdown"
           }
         ]
       },
       {
-        "title": "Image Repository",
-        "startDate": "May 2021",
-        "description": "A full-stack image repository, where users can store their files. Created a GCP cloud function to implement CP-ABE encryption and used it to ensure files are secure at rest.",
+        "title": "Battle for the Galaxy",
+        "startDate": "Dec 2021",
+        "description": "A first person shooter Capture the Flag game created in Unity. Utilizes networking features to allow multiplayer functionality, ",
         "images": [
         ],
         "url": "https://github.com/Aarif123456/image_repository",
